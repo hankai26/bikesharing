@@ -22,14 +22,18 @@ In this analysis we have several findings for investors to review.
 
 ![end_loc](https://github.com/hankai26/bikesharing/blob/main/Images/End%20Locations.png)
 
-3. Most checkout time would be within half hour. Most people rental a bike just for 10 mins. 
+3. Most checkout time would be within half hour. Most people rent bikes just for 10 mins. 
 ![Checkout_times](https://github.com/hankai26/bikesharing/blob/main/Images/Checkout%20Times%20by%20Hour.png)
 
-Based on the gender for ride user, males sound like rental bikes more offen than females. However, the checkout duration looks same among males and females.
+Based on the gender for ride user, males sound like rent bikes more offen than females. However, the checkout duration looks same among males and females.
 ![Checkout_times_gender](https://github.com/hankai26/bikesharing/blob/main/Images/Checkout%20Times%20for%20Gender.png)
 
+
+4. Most bikes were checked out around 5 - 7 pm. This is the busy period for the bike-sharing business.
 ![Trips_weekday_hour](https://github.com/hankai26/bikesharing/blob/main/Images/Trips%20by%20Weekday%20per%20hour.png)
 
+Males always rent bikes more than females. But both males and females share a similar time pattern for bike checking out.
 ![Trips_gender](https://github.com/hankai26/bikesharing/blob/main/Images/Trips%20by%20Gender.png)
 
+5. The trip user overview image shows a clear difference between different types of users. Annual subscribers and males are more like to rent bikes. 
 ![user_trips](https://github.com/hankai26/bikesharing/blob/main/Images/User%20Trips.png)
