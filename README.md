@@ -1,5 +1,5 @@
 # Citi Bike-sharing Analysis
-[link to dashboard](https://public.tableau.com/app/profile/hankai.zhu"link to dashboard")
+[link to dashboard](https://public.tableau.com/app/profile/hankai.zhu)
 
 # Overview
 This project is to prepare a proposal of a bike-sharing  program in Des Moines for investors. The Citi bike-sharing analysis is used to support the proposal using tableau visualizations. The data of Citi Bikes in August 2019 is used in this analysis.
@@ -14,5 +14,5 @@ Here we conducted these studies as followings.
 
 # Results
 1. The August Peak Hour chart indicates that most ride rentals occur around 5 - 7 pm.
-[Peak Hour](https://github.com/hankai26/bikesharing/blob/main/Images/August%20Peak%20Hours.png)
+![Peak Hour](https://github.com/hankai26/bikesharing/blob/main/Images/August%20Peak%20Hours.png)
 
