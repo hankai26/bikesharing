@@ -13,6 +13,23 @@ Here we conducted these studies as followings.
 - Indicate the top starting locations and ending locations for rides.
 
 # Results
+In this analysis we have several findings for investors to review.
 1. The August Peak Hour chart indicates that most ride rentals occur around 5 - 7 pm.
 ![Peak Hour](https://github.com/hankai26/bikesharing/blob/main/Images/August%20Peak%20Hours.png)
 
+2. Manhattan looks likes a popular location to start and end a bike rental. It's probably due to lots of tourists.
+![start_loc](https://github.com/hankai26/bikesharing/blob/main/Images/Start%20Locations.png)
+
+![end_loc](https://github.com/hankai26/bikesharing/blob/main/Images/End%20Locations.png)
+
+3. Most checkout time would be within half hour. Most people rental a bike just for 10 mins. 
+![Checkout_times](https://github.com/hankai26/bikesharing/blob/main/Images/Checkout%20Times%20by%20Hour.png)
+
+Based on the gender for ride user, males sound like rental bikes more offen than females. However, the checkout duration looks same among males and females.
+![Checkout_times_gender](https://github.com/hankai26/bikesharing/blob/main/Images/Checkout%20Times%20for%20Gender.png)
+
+![Trips_weekday_hour](https://github.com/hankai26/bikesharing/blob/main/Images/Trips%20by%20Weekday%20per%20hour.png)
+
+![Trips_gender](https://github.com/hankai26/bikesharing/blob/main/Images/Trips%20by%20Gender.png)
+
+![user_trips](https://github.com/hankai26/bikesharing/blob/main/Images/User%20Trips.png)
