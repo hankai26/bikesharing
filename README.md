@@ -14,4 +14,5 @@ Here we conducted these studies as followings.
 
 # Results
 1. The August Peak Hour chart indicates that most ride rentals occur around 5 - 7 pm.
-[Peak Hour]()
+[Peak Hour](https://github.com/hankai26/bikesharing/blob/main/Images/August%20Peak%20Hours.png)
+
