@@ -37,3 +37,7 @@ Males always rent bikes more than females. But both males and females share a si
 
 5. The trip user overview image shows a clear difference between different types of users. Annual subscribers and males are more like to rent bikes. 
 ![user_trips](https://github.com/hankai26/bikesharing/blob/main/Images/User%20Trips.png)
+
+# Summary
+
+This research indicates that the annual subscribers are prone to using bike-sharing services. The next step of the investment would be focusing more on the marketing to bring in more users into the program. Further, the results demonstrate that the peak hour around 5 - 7 pm, when we need to guarantee that there're adequate sharing bikes in stock. Based on the additional analysis on the top starting and ending locations, we could further understand more about the city type where's more attractive for bike-sharing business.
